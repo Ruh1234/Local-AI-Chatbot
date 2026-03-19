@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9af28b5-cd41-49f3-8196-fd6fe2396190" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fix_ffmeg.py" beforeDir="false" afterPath="$PROJECT_DIR$/fix_ffmeg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/history_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_whisper.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_whisper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voice_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/voice_input.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9af28b5-cd41-49f3-8196-fd6fe2396190" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
